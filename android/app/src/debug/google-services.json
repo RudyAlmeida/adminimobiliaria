@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113301151213",
+    "firebase_url": "https://cassypimentaimoveis.firebaseio.com",
+    "project_id": "cassypimentaimoveis",
+    "storage_bucket": "cassypimentaimoveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113301151213:android:089c42b283a0e28080dbe4",
+        "android_client_info": {
+          "package_name": "br.com.almeida.imobiliariaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWM4u6JrelXgQOBjc-c4SGwMuqSfMNxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
